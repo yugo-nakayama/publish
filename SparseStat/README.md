@@ -82,6 +82,6 @@ python exp_lasso_theorems.py
 出力の混乱を避けるため、以下のルールを推奨します。
 
 - 概念図：`SparseStat/Figure_1.png`
-https://github.com/yugo-nakayama/publish/blob/a4cd7759eef60b30c88cba04044af83d95a4b52a/SparseStat/Figure_1.png
+- !["代替テキスト"]("https://github.com/yugo-nakayama/publish/blob/a4cd7759eef60b30c88cba04044af83d95a4b52a/SparseStat/Figure_1.png")
 - 
 - 定理検証：`Figure_1.jpg`
