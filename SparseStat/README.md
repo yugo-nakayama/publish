@@ -81,5 +81,5 @@ python exp_lasso_theorems.py
 ## 5. 生成物の保存ルール（推奨）
 出力の混乱を避けるため、以下のルールを推奨します。
 
-- 概念図：`Figure_1_3.jpg`
+- 概念図：`SparseStat/Figure_1.png`
 - 定理検証：`Figure_1.jpg`
